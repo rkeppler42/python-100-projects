@@ -33,7 +33,7 @@ Each project folder contains its own `README.md` with a brief description and in
 
 | # | Project | Status |
 |---|---------|--------|
-| 01 | | 🔄 |
+| 01 | [Rename Files](https://github.com/rkeppler42/python-100-projects/tree/main/01-rename-files) | ✅ |
 
 > Table updated as projects are completed.
 
@@ -72,6 +72,6 @@ Cada pasta de projeto contém seu próprio `README.md` com uma breve descrição
 
 | # | Projeto | Status |
 |---|---------|--------|
-| 01 | | 🔄 |
+| 01 | [Rename Files](https://github.com/rkeppler42/python-100-projects/tree/main/01-rename-files) | ✅ |
 
 > Tabela atualizada conforme os projetos são concluídos.
